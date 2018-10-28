@@ -1,9 +1,9 @@
 {
-  "packagerPort": null,
-  "packagerPid": null,
+  "packagerPort": 19001,
+  "packagerPid": 12816,
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "expoServerNgrokUrl": "https://7a-823.epodjetnik.epodjetnikmoby.exp.direct",
   "packagerNgrokUrl": "https://packager.7a-823.epodjetnik.epodjetnikmoby.exp.direct",
-  "ngrokPid": 12984
+  "ngrokPid": 8116
 }

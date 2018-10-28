@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "persist-6",
-    "description": "- Login, ki si ga zapomni\n- nov Home Screen\n- nadaljevanje iz novega Home Screena:\n  * osnovni podatki partnerja\n  * seznam opomb partnerja",
-    "slug": "snack-SkiQNPAj7",
+    "name": "ePodjetnikMoby",
+    "description": "",
+    "slug": "epodjetnikmoby",
     "privacy": "unlisted",
     "sdkVersion": "30.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
-    "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+    "icon": "./assets/icons/splash.png",
     "loading": {
-      "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+      "icon": "./assets/icons/splash.png",
       "hideExponentText": false
     },
     "packagerOpts": {
@@ -23,6 +23,7 @@
     },
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/robertSefman/ePodjetnikMoby"
   }
 }

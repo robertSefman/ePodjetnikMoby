@@ -8,7 +8,7 @@ const RowHomePage = props => (
         <View style={styles.buttonContainer}>
           <TouchableOpacity style={styles.buttonBackground}>
             <Button 
-              raised={'True'}
+              // raised={'True'}
               buttonStyle={styles.button}
               textStyle={styles.buttonText}
               title={props.item.name}
@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     marginLeft : 10,
   },
   button : {
-    raised: true,
+    // raised: true,
     color: "white",
     backgroundColor: "#0096F7",
     borderRadius: 5,
