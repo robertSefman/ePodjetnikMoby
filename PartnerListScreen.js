@@ -37,7 +37,7 @@ class PartnerListScreen extends React.Component {
     fetch( 'https://prod.e-podjetnik.com/api/V1/ReactCustomers?dataFormat=1', {
          method: "GET",
          headers: {
-         "X-Api-Key": "7fcb3060-6017-4b23-84d3-4d75faaa40b2"
+         "X-Api-Key": "ApiVizir99"
        },
      })
     .then(
