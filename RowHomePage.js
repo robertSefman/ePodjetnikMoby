@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     marginLeft : 10,
   },
   button : {
-//    raised: true,
+    raised: true,
     color: "white",
     backgroundColor: "#0096F7",
     borderRadius: 5,

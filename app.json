@@ -1,9 +1,8 @@
 {
   "expo": {
-    "name": "ePodjetnikMoby",
-<<<<<<< HEAD
-    "description": "",
-    "slug": "epodjetnikmoby",
+    "name": "persist-6",
+    "description": "- Login, ki si ga zapomni\n- nov Home Screen\n- nadaljevanje iz novega Home Screena:\n  * osnovni podatki partnerja\n  * seznam opomb partnerja",
+    "slug": "snack-SkiQNPAj7",
     "privacy": "unlisted",
     "sdkVersion": "30.0.0",
     "version": "1.0.0",
@@ -22,33 +21,8 @@
         "xml"
       ]
     },
-=======
-    "description": "This project is really great.",
-    "slug": "ePodjetnikMoby",
-    "privacy": "public",
-    "sdkVersion": "30.0.0",
-    "platforms": ["ios", "android"],
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
->>>>>>> 7e782f57c8df4185d150e3d73ce8ad5fe98548f7
     "ios": {
       "supportsTablet": true
     }
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 7e782f57c8df4185d150e3d73ce8ad5fe98548f7

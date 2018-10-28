@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
     color: '#0096F7'
   },
   text: {
-//    fontFamily:'Times New Roman',
+    fontFamily:'Times New Roman',
     fontSize: 18,
     marginBottom:15,
     marginLeft:15,
