@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react'
 import {Provider} from 'react-redux'
 import { Icon, Button } from 'react-native-elements'
@@ -62,13 +63,35 @@ const AppNavigator = createSwitchNavigator({
     initialRouteName: "Login",
 })
 
+=======
+import React from 'react';
+import { StyleSheet, Text, View } from 'react-native';
+>>>>>>> 7e782f57c8df4185d150e3d73ce8ad5fe98548f7
 
 export default class App extends React.Component {
   render() {
     return (
+<<<<<<< HEAD
       <Provider store={store}>
         <AppNavigator />
       </Provider>
     )
   }
 }
+=======
+      <View style={styles.container}>
+        <Text>Open up App.js to start xx working on your app!</Text>
+      </View>
+    );
+  }
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
+>>>>>>> 7e782f57c8df4185d150e3d73ce8ad5fe98548f7
