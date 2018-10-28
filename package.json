@@ -1,0 +1,26 @@
+{
+  "name": "persist-6",
+  "version": "0.0.0",
+  "description": "- Login, ki si ga zapomni\n- nov Home Screen\n- nadaljevanje iz novega Home Screena:\n  * osnovni podatki partnerja\n  * seznam opomb partnerja",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@expo/vector-icons": "6.2.1",
+    "expo": "^30.0.0",
+    "prop-types": "15.6.2",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-elements": "0.19.1",
+    "react-native-vector-icons": "6.0.2",
+    "react-navigation": "2.18.0",
+    "react-redux": "5.0.7",
+    "redux": "^4.0.0-0",
+    "redux-persist": "5.10.0",
+    "redux-thunk": "2.3.0",
+    "ws": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  }
+}
